@@ -1,0 +1,24 @@
+{
+  "name": "switchup",
+  "version": "0.0.1",
+  "description": "A backup workflow for the Nintendo Switch over ftp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschinis/SwitchUp.git"
+  },
+  "keywords": [
+    "nintendo",
+    "switch",
+    "backup"
+  ],
+  "author": "mschinis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mschinis/SwitchUp/issues"
+  },
+  "homepage": "https://github.com/mschinis/SwitchUp#readme"
+}
